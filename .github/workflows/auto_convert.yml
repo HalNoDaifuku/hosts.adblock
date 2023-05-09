@@ -9,7 +9,7 @@ on:
 jobs:
   convert:
     name: Convert
-    runs-on: ubuntu
+    runs-on: ubuntu-latest
     container: ubuntu:latest
     defaults:
       run:
