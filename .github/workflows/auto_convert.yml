@@ -15,8 +15,6 @@ jobs:
       run:
         shell: bash {0}
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
       - name: Setup Ubuntu
         run: |
           apt update
@@ -26,6 +24,8 @@ jobs:
           curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash - &&\
           sudo apt-get install -y nodejs
           npm i -g @adguard/hostlist-compiler
+      - name: Checkout
+        uses: actions/checkout@v3
       - name: Run convert.sh
         run: |
           ./convert.sh
