@@ -1,0 +1,14 @@
+{
+  "name": "StevenBlack/hosts",
+  "description": "Auto compiled with hostlist-compiler",
+  "homepage": "https://github.com/HalNoDaifuku/hosts.adblock",
+  "license": "https://github.com/HalNoDaifuku/hosts.adblock/blob/main/LICENSE",
+  "sources": [
+    {
+      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+      "type": "hosts"
+    }
+  ],
+  "transformations": ["Compress"],
+  "exclusions_sources": ["global_exclusions.txt"]
+}

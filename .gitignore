@@ -1,0 +1,5 @@
+*.bak
+
+# MacOS
+.DS_Store
+Icon?
