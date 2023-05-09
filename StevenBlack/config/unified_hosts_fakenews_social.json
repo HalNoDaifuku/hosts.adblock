@@ -2,7 +2,7 @@
   "name": "StevenBlack/hosts with the fakenews and social extensions",
   "description": "Auto compiled with hostlist-compiler",
   "homepage": "https://github.com/HalNoDaifuku/hosts.adblock",
-  "license": "https://github.com/HalNoDaifuku/hosts.adblock/blob/main/LICENSE",
+  "license": "https://github.com/StevenBlack/hosts/blob/master/license.txt",
   "sources": [
     {
       "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-social/hosts",
