@@ -22,6 +22,7 @@ jobs:
           apt update
           apt dist-upgrade -y
           apt install -y bash curl sudo git
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
           curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash - &&\
           sudo apt-get install -y nodejs
           npm i -g @adguard/hostlist-compiler
