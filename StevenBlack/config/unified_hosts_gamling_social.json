@@ -10,5 +10,6 @@
     }
   ],
   "transformations": ["Compress"],
-  "exclusions_sources": ["global_exclusions.txt"]
+  "exclusions_sources": ["global_exclusions.txt"],
+  "inclusions_sources": ["global_inclusions.txt"]
 }
