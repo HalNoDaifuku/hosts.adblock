@@ -48,11 +48,11 @@ do
 
     # Check '# Title:'
     if grep -Eq '# *Title:' "${FILES_IFS[2]}"; then
-        sed -i.bak '/^\! Title:/d' "${FILES_IFS[2]}"
+        sed -i.bak '/[^\S\n]*\! Title:/d' "${FILES_IFS[2]}"
     fi
 
     # Convert comment '#' to '!'
-    sed -i.bak 's/^\#/\!/' "${FILES_IFS[2]}"
+    sed -i.bak 's/[^\S\n]*\#/\!/' "${FILES_IFS[2]}"
 
     export IFS=$'\n'
 done
