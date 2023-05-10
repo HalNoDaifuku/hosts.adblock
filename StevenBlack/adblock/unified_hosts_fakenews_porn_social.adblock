@@ -1,7 +1,7 @@
 ! Description: Auto compiled with hostlist-compiler
 ! Homepage: https://github.com/HalNoDaifuku/hosts.adblock
 ! License: https://github.com/StevenBlack/hosts/blob/master/license.txt
-! Last modified: 2023-05-10T11:44:11.840Z
+! Last modified: 2023-05-10T11:51:53.784Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -86260,17 +86260,25 @@
 
 !<maybe-spy>
 !0.0.0.0 auto.search.msn.com  # Microsoft uses this server to redirect
+                                # mistyped URLs to search engines. They
+                                # log all such errors.
 !0.0.0.0 sitefinder.verisign.com	# Verisign has joined the game 
 !0.0.0.0 sitefinder-idn.verisign.com	# of trying to hijack mistyped
+					# URLs to their site. 
+					# May break iOS Game Center.
 
 !0.0.0.0 s0.2mdn.net		# This may interfere with some streaming 
+				# video on sites such as cbc.ca
 !0.0.0.0 ad.doubleclick.net   # This may interefere with www.sears.com
+				# and potentially other sites. 
 !0.0.0.0 ebay.doubleclick.net		# may interfere with ebay
 !0.0.0.0 google-analytics.com			# breaks some sites
 !0.0.0.0 ssl.google-analytics.com
 !0.0.0.0 www.google-analytics.l.google.com
 !0.0.0.0 stat.livejournal.com		# There are reports that this may mess 
+ 					# up CSS on livejournal
 !0.0.0.0 stats.surfaid.ihost.com	# This has been known cause 
+					# problems with NPR.org
 !0.0.0.0 www.google-analytics.com		# breaks some sites
 !0.0.0.0 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
 !</maybe-spy>
@@ -86297,6 +86305,8 @@
 ||adapi.ragapa.com^
 ||adelogs.adobe.com^
 ||ademails.com^
+  # ads and track users across 
+  # the com.com family of sites
 ||adpatrof.com^
 ||ads.tiscali.it^
 ||adtrack.appcpi.net^
@@ -93264,6 +93274,7 @@
 !<ecard-scam-sites>
 
 ! malicious e-card -- these sites send out mass quantities of spam 
+	# and some distribute adware and spyware
 ||123greetings.com^
 ||2000greetings.com^
 ||celebwelove.com^
@@ -93297,6 +93308,7 @@
 !<wiki-spam-sites>
 
 ! message board and wiki spam -- these sites are linked in 
+	# message board spam and are unlikely to be real sites
 ||21jewelry.com^
 ||24x7.soliday.org^
 ||2site.com^
