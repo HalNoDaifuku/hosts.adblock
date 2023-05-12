@@ -1,2 +1,14 @@
 ! 0.0.0.0 0.0.0.0
 /^[\t ]*0\.0\.0\.0[\t ]+0\.0\.0\.0[\t ]*$/
+
+! local
+/^[\t ]*127\.0\.0\.1[\t ]+local[\t ]*$/
+/^[\t ]*0\.0\.0\.0[\t ]+local[\t ]*$/
+
+! localhost
+/^[\t ]*127\.0\.0\.1[\t ]+localhost[\t ]*$/
+/^[\t ]*0\.0\.0\.0[\t ]+localhost[\t ]*$/
+
+! localhost.localdomain
+/^[\t ]*127\.0\.0\.1[\t ]+localhost.localdomain[\t ]*$/
+/^[\t ]*0\.0\.0\.0[\t ]+localhost.localdomain[\t ]*$/
