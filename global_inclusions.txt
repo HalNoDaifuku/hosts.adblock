@@ -7,5 +7,5 @@
 ! Comments
 /^[\t ]*\#/
 
-! New line
+! Empty line
 /^$/
