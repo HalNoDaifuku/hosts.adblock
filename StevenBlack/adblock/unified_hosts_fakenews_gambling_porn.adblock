@@ -1,7 +1,7 @@
 ! Description: Auto compiled with hostlist-compiler
 ! Homepage: https://github.com/HalNoDaifuku/hosts.adblock
 ! License: https://github.com/StevenBlack/hosts/blob/master/license.txt
-! Last modified: 2023-09-14T00:50:47.272Z
+! Last modified: 2023-09-15T00:51:33.400Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10,9 +10,9 @@
 ! This hosts file is a merged collection of hosts from reputable sources,
 ! with a dash of crowd sourcing via GitHub
 !
-! Date: 11 September 2023 01:17:04 (UTC)
+! Date: 15 September 2023 00:24:30 (UTC)
 ! Extensions added to this file: fakenews, gambling, porn
-! Number of unique domains: 256,323
+! Number of unique domains: 256,358
 !
 ! Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 ! Project home page: https://github.com/StevenBlack/hosts
@@ -11889,8 +11889,8 @@
 ! Start hostsVN
 
 ! Title: hostsVN
-! Last modified: 08 Sep 2023 14:08 UTC+7
-! Version: 2309081408
+! Last modified: 11 Sep 2023 10:01 UTC+7
+! Version: 2309111001
 ! Blocked: 1,802 domains
 ! Only include advertisers in Vietnam
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -94529,7 +94529,7 @@
 ! Please forward any additions, corrections or comments by email to
 ! hosts@someonewhocares.org
 
-! Last updated: Thu, 07 Sep 2023 at 05:01:54 GMT
+! Last updated: Wed, 13 Sep 2023 at 19:23:10 GMT
 
 ! Use this file to prevent your computer from connecting to selected
 ! internet hosts. This is an easy and effective way to protect you from 
@@ -95434,6 +95434,7 @@
 ||ac-strasboourg.fr^
 ||ac-versdailles.fr^
 ||aca-languedoc.fr^
+||account-review.com^
 ||accounts.secure-ua.website^
 ||acessoires-electromenager.fr^
 ||acglgoa.com^
@@ -96658,6 +96659,7 @@
 ||starbuckssurvey.life^
 ||startmarket.su^
 ||statutorjuihui.site^
+||stay.decentralappps.com^
 ||steelbitepro24.com^
 ||stellarium.fr^
 ||steveberry.fr^
@@ -103497,7 +103499,7 @@
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2023-09-11 00:45:07 (UTC)                      !
+! Last updated: 2023-09-15 00:04:35 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -103508,16 +103510,14 @@
 ||1ecosolution.it^
 ||2126892.bazeinfo.com^
 ||33rdderryscouts.com^
-||360.lcy2zzx.pw^
 ||360down7.miiyun.cn^
-||542199235l.com^
 ||8.365tv.ma^
 ||abacuos.com^
 ||abissnet.net^
-||ableinfo.co.kr^
+||abmaxdigital.com^
+||acellr.co.uk^
 ||admin.byte.in.ua^
 ||agemn.co.za^
-||agsnv.com^
 ||aircnc.life^
 ||airhobi.com^
 ||alakheilizwe.org^
@@ -103526,17 +103526,28 @@
 ||alligatorplataformas.com^
 ||altamoorgoods.com^
 ||americantv.online^
+||angryipscanner.net^
+||aosafrica.co.za^
+||api-ms.cobainaja.id^
 ||api.52kkg.com^
+||api.baimless.com^
 ||apps.saintsoporte.com^
 ||aquapools.in^
 ||aristonbentre.com^
-||asu.com.vn^
+||artmediastudio.ro^
+||ascend.macronator.biz^
 ||athadnw.com^
+||ayhy.workout.oystergardener.net^
 ||azmeasurement.com^
 ||balouchlawassociates.com^
 ||bejenaru-studio.ro^
 ||bencevendeghaz.hu^
+||benwellgroup.co.uk^
+||bestbudcpa.com^
 ||bethelmbcarvada.org^
+||bigmikesupplies.co.za^
+||blog.cafezinho.group^
+||bloom-artists.com^
 ||bontiakhotel.net^
 ||bookkeepingagents.com^
 ||botnet.nguyennghi.info^
@@ -103544,19 +103555,20 @@
 ||british-shorthair.es^
 ||brknarikan.com^
 ||bruiserbodies.com^
+||brunettifamily.org^
 ||buscascolegios.diit.cl^
 ||buypropertyinuae.com^
 ||bz.bbbeioaag.com^
 ||caioaraujo.vip^
 ||callusoyasociados.com.ar^
 ||camminachetipassa.it^
+||canconsulting.in^
 ||cargoconnect.online^
+||casamuseoayerbe.co^
 ||cat.lobret.co.za^
 ||cdaonline.com.ar^
 ||cdn.unduhfile.my.id^
-||change-infos.com^
 ||changelife.vip^
-||check.gameupdate.site^
 ||chiptune.com^
 ||christianyouthforum.org^
 ||chuckozeas.com^
@@ -103564,6 +103576,7 @@
 ||cipro.mx^
 ||coadymarine.com^
 ||colisumy.com^
+||comercial-sanjose.cl^
 ||coop-host.com^
 ||corpernaija.com^
 ||corpolevesuplementos.com.br^
@@ -103571,11 +103584,10 @@
 ||crackload.net^
 ||crz.de^
 ||cuentasstreaming.com^
-||cursodeparapsicologia.org^
 ||d1.udashi.com^
 ||d7.fajridemo.com^
 ||dacsandongthapmuoi.vn^
-||danaevara.com^
+||dating.khokhas.co.za^
 ||deine-bewerbung.com^
 ||demo-re-usables.inertiasoft.net^
 ||demonware.online^
@@ -103584,9 +103596,7 @@
 ||destinymc.co.za^
 ||devises-dz.com^
 ||dhnconstrucciones.com.ar^
-||dienmay01.maudemo.com^
-||discord-parners.online^
-||dl.1003b.56a.com^
+||diclegrup.org^
 ||dl.9xu.com^
 ||dl.packetstormsecurity.net^
 ||dlqsclub.com^
@@ -103595,15 +103605,15 @@
 ||donkeytourscroatia.com^
 ||down.pcclear.com^
 ||down.suyx.net^
-||download.pdf00.cn^
+||down.udashi.com^
+||downloayxkemam.sbs^
 ||drhanneserasmus.co.za^
-||droomsoft.com^
 ||dukaree.com^
+||dzmar.workout.oystergardener.net^
 ||e-commerce.saleensuporte.com.br^
 ||easyrentbyowner.com^
-||ebenezercartagena.org^
-||egwis.com^
-||elmejorlocal.com.co^
+||easyxgame.com^
+||electnum.com^
 ||elturky.net^
 ||elvalledetarrazu.com^
 ||emaids.co.za^
@@ -103612,23 +103622,22 @@
 ||et3.ektpnc.com^
 ||eurooknamsk.ru^
 ||exilum.com^
-||exploraretail.com^
 ||expressionsofwood.ca^
+||extantlaws.com^
 ||famesa.com.ar^
 ||fetchdesignprint.co.za^
-||fidelbringas.com^
 ||files5.uludagbilisim.com^
 ||fixmenoverheadgaragedoorrepair.com^
-||flamenewton.com^
 ||florent-webdev.com^
-||fr-address.com^
+||forms.hurtadovidalplasticsurgery.com^
 ||funatfitsports.com^
 ||funletters.net^
-||gabyagozetim.com^
-||galandskiyher2.com^
+||futotarsakse.hu^
+||fyxk.workout.oystergardener.net^
+||galaxypharmacysl.com^
 ||gccon.in^
+||gecitartandmore.com^
 ||gecopakistan.com^
-||gedebey-tvradio.info^
 ||globalmanysoft.com^
 ||gobesitysurgery.com^
 ||gokcevizyon.com^
@@ -103636,40 +103645,45 @@
 ||gomlgaming.dev^
 ||gotovacoil.com^
 ||greenisco.com^
+||growrock.co.za^
 ||gtn.cl^
+||haisatatakarya.com^
 ||harleyqueretaro.com^
+||heike.teofilius.de^
 ||helmprecision.com^
 ||herchinfitout.com.sg^
-||hergelekitap.com.tr^
 ||hitstation.nl^
+||hlgx.workout.oystergardener.net^
 ||hopvibestravel.co.za^
 ||hostigram.xyz^
 ||houssagynecologue.com^
 ||hp.buytoprint.com^
 ||hr2019.vrcom7.com^
 ||hrfrance.net^
-||hseda.com^
-||htownbars.com^
 ||hugersi.com^
 ||hunggiang.vn^
 ||hyper-soft.pro^
+||ikhwarn.com^
 ||ileapinternational.org^
+||imbueautoworx.co.za^
 ||imit.ac.in^
 ||incotel.com.pk^
+||infectedchink.cat^
 ||ingenieriaorganizacional.net^
 ||intellectproactive.com^
-||ip224.ip-137-74-39.eu^
+||iptvdienst.shop^
 ||ishahcouture.com^
 ||jaccolima.com^
 ||jacketster.com^
 ||jamesperez.top^
-||jhayesconsulting.com^
+||jcedu.org^
 ||ji.alie3ksgbb.com^
+||ji.alie3ksgcc.com^
 ||ji.jaoaaoas11.com^
 ||jjindustries.in^
 ||jobcity.com^
 ||jointings.org^
-||josymixmyhome.com.br^
+||jp.imgjeoighw.com^
 ||jr-software-web.net^
 ||js-hurling.com^
 ||jsl.com.ng^
@@ -103679,10 +103693,12 @@
 ||karimgouss.ug^
 ||kevinley.com^
 ||kimyen.net^
+||lameguard.ru^
 ||lara.amiyon.com^
 ||lasermobilesounds.co.uk^
-||lazadagroup.uk^
-||lexmad635.xyz^
+||laurellkhamilton.shubhmishra.com^
+||lftgrm.com^
+||library.arihantmbainstitute.ac.in^
 ||lindnerelektroanlagen.de^
 ||lineart.in^
 ||livetrack.in^
@@ -103692,95 +103708,90 @@
 ||ltc.typoten.com^
 ||lycheepanel.info^
 ||madicon.co.za^
-||mailgo24.sbs^
+||mail.treeoflifeadventures.com^
 ||main.cloudfronts.net^
 ||makeupuccino.com^
 ||mario-sunjic.com^
+||mariotimm.com.br^
 ||marquesvogt.com^
 ||marrakechfolkloredays.com^
+||martinelliglobal.com^
 ||masar-alulaedu.com^
 ||matajir.ae^
 ||maviproducciones.com^
-||maxximbrasil.com^
 ||mbgrm.com^
 ||mcapublicschool.com^
 ||mdelaluz.net^
+||mdttasarim.com.tr^
 ||meeweb.com^
 ||meonhanong.com^
 ||microsecurityupdate.com^
 ||mistitis.ug^
 ||mistydeblasiophotography.com^
 ||mithransilks.com^
-||moodle.corplearning.net^
-||morientlines.com^
-||mujibbriyani.in^
+||moodi-wood.com^
 ||mumgee.co.za^
-||myfilebest.com^
+||mx1.gnarquitectos.online^
 ||mysura.it^
+||namthaibinh.net^
 ||networkwheels.co.za^
-||newall-getrenew.digital^
 ||newinvestingonline.com^
-||nhorangtreem.com^
-||noithathoanggiatn.com^
 ||notaire-gay-friendly.fr^
 ||npskudlu.com^
 ||nrc-soluciones.com.ar^
 ||nsb.org.uk^
-||oazahotel.com.mk^
-||oceancityrentalbyowner.com^
+||obituaryforfree.com^
+||olugun.co.za^
 ||omeryener.com.tr^
 ||onppe.dz^
-||openaico.ir^
 ||orderedami.com^
 ||origins-france.fr^
-||orlcasablanca.com^
-||orsan.gruporhynous.com^
 ||outdoortacklebox.com^
+||ozelmimarsinanmtal.com^
 ||ozvita.club^
 ||pablobrothel.com.ar^
 ||palharesinformatica.com.br^
 ||paralkemeia.eu^
-||parallel.rockvideos.at^
 ||parrotbay.net^
 ||partadino.ac.ug^
-||pascasarjana.iainfmpapua.ac.id^
 ||paste-bin.xyz^
 ||patriciabono.com^
 ||pink99.com^
 ||pn-raha.go.id^
 ||pns.org.pk^
 ||posmicrosystems.com^
-||post-infos.com^
 ||potolki-razumno.ru^
 ||ppfatahillah.com^
-||pr24note.info^
 ||prestigehomeautomation.net^
 ||primusth.com^
-||projetgalilee.tg^
 ||propagandaetrafego.com^
 ||protechasia.com^
+||protonvpn.uno^
+||ptasoftware.com^
 ||pyrd5.xyz^
 ||qausainfaisalmufti.com^
-||qmsled.com^
+||qcollect.co.za^
 ||quizbn.com^
 ||ramactools.net^
 ||rapture2.romangrey.net^
-||raw.gamemewsupdate.online^
 ||records.dennisign.se^
 ||redmag-dz.com^
 ||reifenquick.de^
 ||relaxindulge.co.nz^
-||republishnow.com^
 ||resourceedge.org^
+||retailexpertscloud.com^
+||rhu.workout.oystergardener.net^
+||richterhi-tech.com^
 ||rollsbeer.com^
 ||rydbergaren.se^
-||safetygear.pk^
-||scan.noxius.cat^
+||ryrgg.workout.oystergardener.net^
+||sainzim.co.za^
+||samnex158.xyz^
+||scamalert.finance^
+||scauditora.cl^
 ||scglobal.co.th^
 ||scientific.pk^
 ||sealicensing.com^
-||secretmindcontrol.com^
-||senbiaojita.com^
 ||senderolunarejo.com^
 ||seniorweekoc.net^
 ||server.easysalepage.in.th^
@@ -103788,31 +103799,34 @@
 ||shahu66.com^
 ||shipminttracking.net^
 ||shop.mediasova.ru^
-||skkassociates.com^
 ||skynnex.com^
 ||skyviewonlineltd.com^
 ||slpbridge.com^
+||smartphoodapp.com^
 ||smz.sh^
 ||sociallysavvyseo.com^
 ||sofancy.co.za^
 ||soft.110route.com^
+||spaceframe.mobi.space-frame.co.za^
 ||spacetrack.co.tz^
-||speedycabng.com^
 ||spices.com.sg^
 ||sshd.run^
 ||static.cz01.cn^
 ||stayinoceancitymd.com^
 ||stdown.dinju.com^
-||sterlingfundinginc.com^
 ||suakhoaketsattphcm.com^
+||subirfact.com^
 ||superstar.tibolts.co.uk^
-||svirtual.sanviatorperu.edu.pe^
+||support.clz.kr^
+||sysobra.com.br^
 ||t.honker.info^
-||tautvydastijunaitis.com^
+||tbiv.workout.oystergardener.net^
 ||tbmcoats.com^
+||techniguitare.com^
 ||techvibeo.com^
 ||tecni-soft.com^
 ||temptmag.com^
+||tengfeidn.com^
 ||test.earborist.com^
 ||test.typoten.com^
 ||thedoctorsgym.net^
@@ -103823,76 +103837,83 @@
 ||tiemvangngoctham.com^
 ||timamollo.co.za^
 ||tmglawpalawan.com^
-||tombeaux-saadiens.com^
+||topsepatu.com^
 ||toquedebolafc.com.br^
-||transcendgroup.co^
 ||travelwithmanta.co.za^
+||treebank.vn^
 ||trieutin.com^
 ||trtmyanmar.com^
 ||tukudewe.com^
 ||tupperware.michaelroberge.ca^
+||twizt.net^
 ||ukguk71.ru^
 ||unacam.ong.br^
 ||unapromo.com^
 ||unicorpbrunei.com^
 ||unioneterna.com^
 ||unlockingdreamsfinancial.com^
-||update.rent^
-||us.imgjeoigaa.com^
+||unquu.workout.oystergardener.net^
+||ustradeok.com^
 ||uxsingh.com^
-||uylab.org^
 ||vahid.intendemo.ir^
-||veterantimespk.art^
 ||vfocus.net^
 ||vidaviajesperu.com^
 ||vijayshanti.com^
+||vipysknik.by^
+||vocesdelatinoamerica.com^
 ||vvitcher.ru^
 ||walkindrivetoday.com^
 ||web.geomegasoft.net^
 ||websound.ru^
-||weirdmodels.com^
-||wholeadress-renew.digital^
+||webtesting.bumpkindigital.com^
+||whatelles.nl^
 ||williecampbell.top^
 ||windcomtechnologies.com^
+||winscphub.com^
 ||wisewomanwarrior.com^
 ||wshsoft.company^
-||www.agies.org^
 ||www.alertsecurities.in^
 ||www.asterglobal.com^
 ||www.barclayledsolutions.com^
-||www.bearware.org^
 ||www.chawkyfrenn.com^
 ||www.chemsky.tn^
+||www.chrisrichardsauthor.com^
+||www.dacui.online^
 ||www.delta-hydraulic.com^
+||www.easyxgame.site^
 ||www.fixstudio.co.kr^
 ||www.geovanisantos.adv.br^
 ||www.globallaborsupply.com^
-||www.gstwb.in^
+||www.hebgb.top^
 ||www.idpminic.org^
+||www.ingonherbal.com^
 ||www.institut-corps-a-ligne.fr^
+||www.jpspeed.biz^
 ||www.jyotigroup.co.in^
-||www.kbproducciones.com^
 ||www.ks.cn^
 ||www.lasikofmichigan.com^
-||www.maxmoney.com^
-||www.ranjanhealthcare.com^
+||www.moninediy.com^
+||www.opolis.io^
+||www.putty-ssh.com^
 ||www.reiwo-service.de^
-||www.saf-oil.ru^
 ||www.starcountry.net^
-||www.sunglassesninja.com^
+||www.tradeinsights.net^
 ||www.ttjm.xyz^
 ||www.vaestsolutions.com^
 ||www.ysbaojia.com^
 ||wynecare.com^
-||x.233sy.cn^
 ||xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai^
+||xt.lykj988.com^
+||xyktza.nbxyk.net^
 ||y.shavsl.com^
 ||yesdeko.com^
 ||yzkzixun.com^
 ||z.shavsl.com^
 ||zaofisa.net^
 ||zexeq.com^
-! Number of entries: 395
+||zwxe.workout.oystergardener.net^
+||zzlsteel.cc^
+! Number of entries: 411
 ! End URLHaus
 
 ! Start yoyo.org
@@ -108805,9 +108826,9 @@
 ||yubasuttertimes.com^
 ||zombie.news^
 ! Title: hostsVN Gambling
-! Last modified: 08 Sep 2023 14:08 UTC+7
-! Version: 2309081408
-! Blocked: 4,944 domains
+! Last modified: 14 Sep 2023 10:39 UTC+7
+! Version: 2309141039
+! Blocked: 4,960 domains
 ! Only include gambling domains (Vietnamese language)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 ! GitHub: https://github.com/bigdargon/hostsVN
@@ -108876,6 +108897,8 @@
 ||11bet.win^
 ||11zalo.com^
 ||12388.club^
+||12388.store^
+||12388bet.co^
 ||123b.bet^
 ||123b.com^
 ||123b.org^
@@ -109099,6 +109122,7 @@
 ||888betk8.net^
 ||888bvn.vip^
 ||888k8vn.com^
+||888loc.io^
 ||888thao.com^
 ||889ae888.com^
 ||88bet.vin^
@@ -109461,6 +109485,7 @@
 ||choilawin.net^
 ||choingay11b.mobi^
 ||choingay88.com^
+||choingayiwin.top^
 ||choingayone88.win^
 ||choisport.com^
 ||choisv88.live^
@@ -109697,6 +109722,7 @@
 ||fb88up.com^
 ||fb88v.com^
 ||fb88viet.com^
+||fb88wow.com^
 ||fb88xyz.com^
 ||fb88you.com^
 ||fb88zo.com^
@@ -109756,6 +109782,7 @@
 ||gachoiviet.com^
 ||gam88.org^
 ||game69.top^
+||game69club.win^
 ||game789club.net^
 ||game88.pro^
 ||gameb52.live^
@@ -111721,6 +111748,7 @@
 ||ritq4.com^
 ||royal77vn.com^
 ||rubik88.com^
+||rvbet005.com^
 ||rw8800.com^
 ||s0kn5.com^
 ||s26bet.bet^
@@ -111898,6 +111926,7 @@
 ||taigenvip.club^
 ||taigenvip88.club^
 ||taigenvip88.com^
+||taigenvipios.fun^
 ||taigo88vn.com^
 ||taigo88vn.pro^
 ||taihit.win^
@@ -113895,8 +113924,8 @@
 ||zodiacu.com^
 ||zpisportbk.com^
 ! Title: hostsVN Adult
-! Last modified: 08 Sep 2023 14:08 UTC+7
-! Version: 2309081408
+! Last modified: 14 Sep 2023 10:39 UTC+7
+! Version: 2309141039
 ! Blocked: 3,385 domains
 ! Only include adult domains (Vietnamese language)
 ! Homepage: https://bigdargon.github.io/hostsVN/
