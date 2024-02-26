@@ -1,7 +1,7 @@
 ! Description: Auto compiled with hostlist-compiler
 ! Homepage: https://github.com/HalNoDaifuku/hosts.adblock
 ! License: https://github.com/StevenBlack/hosts/blob/master/license.txt
-! Last modified: 2024-02-25T00:54:09.238Z
+! Last modified: 2024-02-26T00:52:10.495Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -10,9 +10,9 @@
 ! This hosts file is a merged collection of hosts from reputable sources,
 ! with a dash of crowd sourcing via GitHub
 !
-! Date: 24 February 2024 21:15:37 (UTC)
+! Date: 25 February 2024 06:09:06 (UTC)
 ! Extensions added to this file: gambling, porn, social
-! Number of unique domains: 255,406
+! Number of unique domains: 255,479
 !
 ! Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-social/hosts
 ! Project home page: https://github.com/StevenBlack/hosts
@@ -13082,8 +13082,8 @@
 
 ! Title: KADhosts
 ! Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 24 Feb 2024, 21:15 UTC+01:00
-! Version: 2024.2.24.3
+! Last modified: Sun, 25 Feb 2024, 01:18 UTC+01:00
+! Version: 2024.2.25.0
 ! Expires: 2 days
 ! Website: https://kadantiscam.netlify.app/
 ! Based on: https://github.com/FiltersHeroes/KAD
@@ -15370,6 +15370,7 @@
 ||0c50294bbd4ef73e11ae88fcedffe65f.loftx.pl^
 ||0c358177ab4a2e38619249fe6d900ce5.btntls.pl^
 ||0c65475626c0408cd7f6e03bff0d05a0.vistvx.pl^
+||0cm5.cfd^
 ||0coexplor0r.site^
 ||00d4b35ffed.johncornell.com^
 ||0d804e52.alvoradaconsultoria.com.br^
@@ -15392,6 +15393,7 @@
 ||0ferta-dlugopisy.click^
 ||0ferta.click^
 ||0ff1c30nl1ne.swansoninsgroups.com^
+||0harm0ny.life^
 ||0i3-fd.cfd^
 ||0if0evel0ion.site^
 ||0iks61.cc^
@@ -17749,6 +17751,7 @@
 ||accountregistering.com^
 ||accounts-secures.com^
 ||accounts-settings-passwd.rf.gd^
+||accounts-tibia.com^
 ||accounts.winniing.click^
 ||accountsecu.com^
 ||accountverificationforns.weebly.com^
@@ -18884,7 +18887,6 @@
 ||allegrolokalnie.ezakupy24h-7.pl^
 ||allegrolokalnie.fppt.pl^
 ||allegrolokalnie.i-platnosci-24.pl^
-||allegrolokalnie.id-oferta45333.pl^
 ||allegrolokalnie.kategoria-id77.pl^
 ||allegrolokalnie.kategorie3978713.pl^
 ||allegrolokalnie.kategorie-id84.pl^
@@ -25550,6 +25552,7 @@
 ||check-verifed-account.com^
 ||check.diia-gov.in.net^
 ||checkbasket.com^
+||checking-meta.com^
 ||checkmaildetail1.validatehbk.repl.co^
 ||checkmaildetail2.validatehbk.repl.co^
 ||checkmaildetail3.validatehbk.repl.co^
@@ -26022,6 +26025,7 @@
 ||clipintrust.com^
 ||clippster.com^
 ||cllippwireless.com^
+||clm78.cc^
 ||clmew-sd.sbs^
 ||clo.supplypoland.com^
 ||clock.tablewvem.life^
@@ -28917,6 +28921,7 @@
 ||digelskleponline.com^
 ||digi24.store^
 ||digibyteapi.com^
+||digic-project.com^
 ||digiclinkbf.com^
 ||digicomfortshop.com^
 ||digicompower.com^
@@ -37687,6 +37692,7 @@
 ||hracles.com^
 ||hrappella.site^
 ||hrchg.sbs^
+||hrd.exeaja.com^
 ||hreadtidve.site^
 ||hreandoal.site^
 ||hrestaknotary.com^
@@ -38179,10 +38185,13 @@
 ||id-oferta4758.pl^
 ||id-oferta5456.pl^
 ||id-oferta5755.pl^
+||id-oferta009433.pl^
 ||id-oferta23874.pl^
 ||id-oferta34834.pl^
 ||id-oferta43693.pl^
+||id-oferta45333.pl^
 ||id-oferta49684.pl^
+||id-oferta85727.pl^
 ||id-oferta85785.pl^
 ||id-s.skin^
 ||id.soly-tech.com^
@@ -39282,6 +39291,7 @@
 ||inp0st.02471254.xyz^
 ||inp0st.7766095.xyz^
 ||inp0st.7766097.xyz^
+||inp0st.9203496.xyz^
 ||inp00st.29482724.xyz^
 ||inp0st.80191870.xyz^
 ||inp0st.823647212.xyz^
@@ -39667,6 +39677,7 @@
 ||inpost.vision-link.pw^
 ||inpost.wiki^
 ||inpost.xyz^
+||inpost.yabrepums.org^
 ||inpost.yachts^
 ||inpost.yetgik.org^
 ||inposta-pl.com^
@@ -47343,6 +47354,7 @@
 ||mybestpur365.com^
 ||mybesttidings.online^
 ||mybitardo-space.preview-domain.com^
+||myblog-spyddoib3z.live-website.com^
 ||myblog-sqaztstm8m.live-website.com^
 ||mybooking.info-id2863.eu^
 ||mybooking.info-id6264.eu^
@@ -48558,6 +48570,7 @@
 ||news-pollkerik.store^
 ||news-pollleqram.store^
 ||news-polska-1.profinance-23.com^
+||news-polska.greensorrow.com^
 ||news-polska.profinance-23.com^
 ||news-power.site^
 ||news-prokanlin.store^
@@ -49433,6 +49446,8 @@
 ||o48394.pl^
 ||o98420.pl^
 ||o2177305.shop^
+||o-llx.2347272.xyz^
+||o-llx.2347275.xyz^
 ||o-mjy.sbs^
 ||o-p.sbs^
 ||o-s.homes^
@@ -50121,6 +50136,7 @@
 ||olx.697845124.xyz^
 ||olx.ahsoftware.space^
 ||olx.aoew.pl^
+||olx.aukcja247.pl^
 ||olx.aukcja-24.pl^
 ||olx.aukcje24h.pl^
 ||olx.aukcje-24h.pl^
@@ -56957,7 +56973,6 @@
 ||rendroasd-xyz.preview-domain.com^
 ||renelynspartyneeds.com^
 ||renew-your-account.com^
-||renewal-primezyprasbruiserling.dokumentasoluciones.com^
 ||renewal.bond^
 ||renewer.sbs^
 ||renewfiix.com^
@@ -58761,6 +58776,7 @@
 ||servizioarbu.net^
 ||servshrt182.cfd^
 ||servsupertt.com^
+||serwer1739297.home.pl^
 ||serwis-laptopow.waw.pl^
 ||serwis-mbank-bezpieczny.com^
 ||serwisowe24h.click^
@@ -60625,6 +60641,7 @@
 ||stjosephaffordablehousing.com^
 ||stjosephsoswego.com^
 ||stkintl.com^
+||stleamcommulnity.com^
 ||stmaryjoseph.com^
 ||stmatthewsmed.com^
 ||sto7.maxiprog.xyz^
@@ -61203,6 +61220,7 @@
 ||swiadomedecyzje.click^
 ||swiadomespoleczenstwo.click^
 ||swiadomoscnasza.click^
+||swiadomoscobywatelska.click^
 ||swiat-inaczej.you2.pl^
 ||swiat-wiezienia.eu^
 ||swiatblisko24.prv.pl^
@@ -64859,6 +64877,7 @@
 ||usp.usspzb.top^
 ||usp.usspzj.top^
 ||usp.usspzx.top^
+||uspb.usply.top^
 ||uspe.usspnw.top^
 ||uspe.ussppb.top^
 ||uspe.ussprz.top^
@@ -64869,7 +64888,18 @@
 ||usps.pnpackege.top^
 ||usps.posthelzpn.com^
 ||usps.posts-us.net^
+||uspz.06us2w080ps.top^
+||uspz.uspmd.top^
+||uspz.uspmj.top^
+||ussp.01us2w020ps.top^
+||ussp.02us2w021ps.top^
+||ussp.04us2w023ps.top^
+||ussp.uspap.top^
+||ussp.uspeh.top^
 ||ussp.uspjl.top^
+||ussp.uspml.top^
+||ussp.usspqz.top^
+||ussp.usspsl.top^
 ||ustrojpanstwa.click^
 ||usugi.xyz^
 ||uswiadomienieobywateli.click^
@@ -67430,6 +67460,7 @@
 ||writevault.us^
 ||writhkingbaldemail.site^
 ||writtennotblogged.com^
+||wrl1nekar406jrdvivvmlc0g.furnituremember.com^
 ||wrland.sbs^
 ||wrn0uhc4o3oktk7v2v31t8ek.animalvaliant.com^
 ||wroad.allpldom.pl^
@@ -86324,14 +86355,13 @@
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2024-02-24 21:04:19 (UTC)                      !
+! Last updated: 2024-02-25 06:04:09 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
-||1ecosolution.it^
-||33rdderryscouts.com^
+||1717.1000uc.com^
 ||360down7.miiyun.cn^
 ||542199235l.com^
 ||abissnet.net^
@@ -86346,16 +86376,14 @@
 ||api-ms.cobainaja.id^
 ||api.52kkg.com^
 ||app.tesla-alert.com^
-||asu.com.vn^
+||artmediastudio.ro^
 ||asx.sunaviat.com^
 ||athadnw.com^
 ||atomm.com.br^
 ||auth.tesla-alert.com^
-||autoenhancer.tech^
 ||autoupdate.com.ua^
 ||azmeasurement.com^
 ||b.clu-e.eu^
-||bearcatpumps.com.cn^
 ||benhvienthanglong.vn^
 ||bonet.networkbn.com^
 ||bontiakhotel.net^
@@ -86365,7 +86393,6 @@
 ||brazilanimalshelp.com^
 ||british-shorthair.es^
 ||brknarikan.com^
-||brodbeckconsulting.com^
 ||bruiserbodies.com^
 ||bryanstubbs.com^
 ||buscascolegios.diit.cl^
@@ -86375,16 +86402,16 @@
 ||carthagefire.net^
 ||catgirls.foundation^
 ||catgirls.network^
-||ccforteza.com^
+||cbinr.com^
+||cczhk.com^
 ||cdaonline.com.ar^
 ||cdn-analytic.com^
-||chernobyl.fun^
+||checkpoint.up4download.xyz^
 ||chiptune.com^
 ||chubb-institute.com^
-||clexowinsurance.com^
 ||cloud.zhifeiyi.cn^
-||cms-sh.de^
 ||cnc.neko.ltd^
+||coadymarine.com^
 ||colegiojuanbernardone.com^
 ||computersupportexperts.com^
 ||configure.syscatec.com^
@@ -86399,18 +86426,20 @@
 ||ddos.sdxpay.cn^
 ||def.bestsup.su^
 ||demo.nessotechbd.com^
-||dhnconstrucciones.com.ar^
-||diclegrup.org^
+||digitalvtu.com.ng^
 ||dl.1003b.56a.com^
 ||dl.9xu.com^
 ||dl.packetstormsecurity.net^
 ||dnccomputers.com^
+||dokumentasoluciones.com^
 ||down.pcclear.com^
+||down.udashi.com^
 ||download.caihong.com^
 ||download.doumaibiji.cn^
 ||download.pdf00.cn^
 ||drhanneserasmus.co.za^
 ||drive.google.com.it-barcelona.com^
+||droomsoft.com^
 ||dukaree.com^
 ||dw.tamatri.co^
 ||e-commerce.saleensuporte.com.br^
@@ -86419,9 +86448,9 @@
 ||eercs.com^
 ||eezc.members.openarmscv.com^
 ||elvalledetarrazu.com^
-||emgvod.com^
 ||en.bestsup.su^
 ||exilum.com^
+||exks.members.openarmscv.com^
 ||expeditionbuilders.com^
 ||expressionsofwood.ca^
 ||famesa.com.ar^
@@ -86437,9 +86466,7 @@
 ||greenisco.com^
 ||growrock.co.za^
 ||grpt.ca^
-||habrafa.com^
 ||heygirlisheeverythingyouwantedinaman.com^
-||hitman-pro.ru^
 ||hitstation.nl^
 ||hqert.members.openarmscv.com^
 ||hr2019.vrcom7.com^
@@ -86450,62 +86477,67 @@
 ||icemail.com.br^
 ||immobilien-spektrum.de^
 ||intellectproactive.com^
-||ircftp.net^
 ||ishahcouture.com^
 ||jeffdahlke.com^
 ||jhayesconsulting.com^
-||jobcity.com^
 ||jointings.org^
+||justplay.asia^
+||jwqr.members.openarmscv.com^
 ||jzuo.honors.howamerica.com^
 ||karer.by^
+||kest.com.pe^
 ||kevinley.com^
 ||kimyen.net^
+||kog.day.50adayplan.com^
 ||ktuj.members.openarmscv.com^
 ||lameguard.ru^
 ||lastimaners.ug^
 ||lestandardsarl.com^
 ||lindnerelektroanlagen.de^
+||linkvilleplayers.org^
 ||live.com.gt^
 ||livetrack.in^
+||lostheaven.com.cn^
 ||mail.alphaassessoriato.com.br^
 ||mail.check-time.ru^
 ||marksidfg.ug^
 ||marksidfgs.ug^
-||maxximbrasil.com^
 ||mayanboats.com^
 ||medfioytrkdkcodlskeej.net^
 ||meeweb.com^
-||menstreamlive.co.za^
 ||meonhanong.com^
+||merketsignets.site^
 ||microsecurityupdate.com^
-||microtrimsltd.com.bd^
 ||mistitis.ug^
 ||ml.lionos.xyz^
 ||mmtplonline.com^
-||mtv.members.openarmscv.com^
 ||muzzumilruheel.com^
 ||my-sbox.trns.co.za^
 ||mysura.it^
+||namthaibinh.net^
 ||netpay.51sfy.net^
 ||networkwheels.co.za^
 ||nextnovatech.com^
-||nhatheptienchebinhduong.com^
 ||notmalware.top^
 ||ns2.timecheck.ug^
 ||nsb.org.uk^
 ||oazahotel.com.mk^
+||olugun.co.za^
 ||opencart.notebookparcalari.com^
 ||opesjk.ug^
 ||opsdjs.ug^
 ||orderedami.com^
+||orlcasablanca.com^
 ||pan.tenire.com^
 ||parallel.rockvideos.at^
 ||partadino.ac.ug^
 ||pink99.com^
+||pn-raha.go.id^
 ||pns.org.pk^
 ||ponizinny.nl^
 ||posmicrosystems.com^
 ||prestigehomeautomation.net^
+||primalbrainhacks.com^
 ||proecologicsistem.com^
 ||propagandaetrafego.com^
 ||protechasia.com^
@@ -86516,13 +86548,11 @@
 ||resourceedge.org^
 ||rodhigital.com^
 ||rollsbeer.com^
+||romvalstudios.com^
 ||safetygear.pk^
+||sapiens-services.com^
 ||scientific.pk^
-||secretmindcontrol.com^
 ||server.easysalepage.in.th^
-||servisaludocupacional.pe^
-||shadow.qyhgroup.com^
-||shahu66.com^
 ||shipminttracking.net^
 ||sierrafoodcorp.com^
 ||sinopbisikletkiralama.com^
@@ -86531,8 +86561,6 @@
 ||sos.vivi.sg^
 ||spaceframe.mobi.space-frame.co.za^
 ||spices.com.sg^
-||spydezgame.com^
-||src1.minibai.com^
 ||static.cz01.cn^
 ||stdown.dinju.com^
 ||stoneyarchkennels.com^
@@ -86545,22 +86573,26 @@
 ||teliallc.top^
 ||temptmag.com^
 ||tengfeidn.com^
-||test.typoten.com^
+||thedoctorsgym.net^
+||threedayvi.com^
 ||threerosesbeauty.com^
+||travelwithmanta.co.za^
 ||trmpc.com^
 ||ummotosmexico.mx^
 ||unlockingdreamsfinancial.com^
+||updates.ultimate-fakkers.co.network^
 ||upload.vina-host.com^
 ||uxsingh.com^
 ||valowaves.com^
+||viabookfree.com^
 ||vipysknik.by^
 ||viviendas8.com^
 ||vkengcivil.com.br^
 ||wayoutkwt.com^
 ||websound.ru^
-||workstatpasing.com^
 ||wu.dnet.hu^
 ||www.agies.org^
+||www.asterglobal.com^
 ||www.bearware.org^
 ||www.chemsky.tn^
 ||www.eastconsults.com^
@@ -86568,26 +86600,28 @@
 ||www.hseda.com^
 ||www.idpminic.org^
 ||www.ingonherbal.com^
+||www.kalp-s.com^
 ||www.lasikofmichigan.com^
 ||www.luxurypropertiesfl.com^
 ||www.maxmoney.com^
+||www.moninediy.com^
 ||www.ojang.pe.kr^
 ||www.opolis.io^
 ||www.reiwo-service.de^
 ||www.roofing.galacticleads.com^
 ||www.saf-oil.ru^
-||www.starcountry.net^
 ||www.sunglassesninja.com^
 ||www.tradeinsights.net^
 ||www.ysbaojia.com^
 ||wynecare.com^
 ||xiangshunjy.com^
 ||xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai^
-||xt.lykj988.com^
+||y.shavsl.com^
 ||youronestophalalshop.com^
 ||yp.hnggzyjy.cn^
+||yzkzixun.com^
 ||z.shavsl.com^
-! Number of entries: 259
+! Number of entries: 262
 ! End URLHaus
 
 ! Start yoyo.org
@@ -129522,7 +129556,6 @@
 ||lawnjinsi.com^
 ||pornpics.de^
 ||xlirdr.com^
-||.0.0.0^
 ||pornaddictsanonymous.org^
 ||videosdesexoamateur.net^
 ||vanessadelriomovies.com^
